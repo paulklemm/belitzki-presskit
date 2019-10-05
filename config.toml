@@ -1,0 +1,13 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "belitzki. Press Kit"
+publishDir = "docs"
+theme = "hyde"
+[Menus]
+  main = [
+      {Name = "Facebook", URL = "https://facebook.com/belitzki/"},
+      {Name = "Bandcamp", URL = "https://www.linkedin.com/in/username/"},
+      {Name = "Spotify", URL = "https://www.linkedin.com/in/username/"}
+  ]
+[params]
+  description = "Indiepoprockgedöhns"

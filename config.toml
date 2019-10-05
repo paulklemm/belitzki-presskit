@@ -7,7 +7,8 @@ theme = "hyde"
   main = [
       {Name = "Facebook", URL = "https://facebook.com/belitzki/"},
       {Name = "Bandcamp", URL = "https://www.linkedin.com/in/username/"},
-      {Name = "Spotify", URL = "https://www.linkedin.com/in/username/"}
+      {Name = "Spotify", URL = "https://www.linkedin.com/in/username/"},
+      {Name = "Kontakt", URL = "mailto:belitzki@web.de"}
   ]
 [params]
-  description = "Indiepoprockgedöhns"
+  description = "Indiepunkpoprockgedöhns"

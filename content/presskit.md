@@ -4,28 +4,19 @@ date: 2019-10-04T21:55:05+02:00
 draft: true
 ---
 
-<!-- TOC depthFrom:2 -->
+TODO: Logo/Bild vor der Wand (Desktop, siehe Desktop)
+Fotocredit
 
-- [Video](#video)
-- [Kurzer Info-Text für Veranstaltungs-Beschreibungen](#kurzer-info-text-für-veranstaltungs-beschreibungen)
-- [Hörbeispiele](#hörbeispiele)
-- [Konzerte](#konzerte)
-  - [Anstehende Konzerte](#anstehende-konzerte)
-  - [Vergangene Konzerte](#vergangene-konzerte)
-- [Pressetext für das Album belitzki. – "Jetzt"](#pressetext-für-das-album-belitzki--jetzt)
+## Album
 
-<!-- /TOC -->
+<iframe style="border: 0; width: 350px; height: 753px;" src="https://bandcamp.com/EmbeddedPlayer/album=1575319358/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://belitzki.bandcamp.com/album/jetzt">Jetzt by belitzki.</a></iframe>
 
-Kontakt: belitzki@web.de
+### Reviews
 
-## Video
-
-{{< youtube 5Xdwpp8Hq1Y >}}
-
-{{< youtube Kqb6OeUujWI >}}
-
-{{< youtube n-np8qvfqQM >}}
-
+- [ICANGUARANTEE](https://www.icanguarantee.com/belitzki-jetzt/)
+- [Crossed Letters](https://crossedletters.wordpress.com/2019/09/22/bandsalat-belitzki-cape-light-cultdreams-gender-roles-keele-montreal-slaughter-beach-dog-yarostan/)
+- [jazzandrock.com](http://jazzandrock.com/?p=12088)
+- [soundmag.de](https://www.soundmag.de/reviews/belitzki-jetzt/)
 
 ## Kurzer Info-Text für Veranstaltungs-Beschreibungen
 
@@ -37,10 +28,9 @@ Mal klappts besser, mal noch besser und mal nicht so richtig, aber immer stehen 
 Und dann wirds geil!
 Also, bis bald?
 
+## Video
 
-## Hörbeispiele
-
-<iframe style="border: 0; width: 350px; height: 753px;" src="https://bandcamp.com/EmbeddedPlayer/album=1575319358/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://belitzki.bandcamp.com/album/jetzt">Jetzt by belitzki.</a></iframe>
+{{< youtube 5Xdwpp8Hq1Y >}}
 
 ## Konzerte
 
@@ -111,3 +101,8 @@ Die neun Songs des Albums „Jetzt“ finden sich irgendwo zwischen Ton Steine S
 *Jetzt*
 
 Für die Veröffentlichung verzichtet die Band bewusst auf ein Label und großen Vertrieb, sondern bietet die CD auf Spendenbasis an. Digital ist das Album seit dem 2.8.2019 auf Bandcamp erhältlich und kann auf den verschiedenen Streamingportalen gehört werden.
+
+## Kontakt
+
+- 📧 belitzki@web.de
+- 📱0157 39334823 (Krätzi)

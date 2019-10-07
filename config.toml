@@ -8,7 +8,8 @@ theme = "hyde"
       {Name = "Facebook", URL = "https://facebook.com/belitzki/"},
       {Name = "Bandcamp", URL = "https://www.linkedin.com/in/username/"},
       {Name = "Spotify", URL = "https://www.linkedin.com/in/username/"},
-      {Name = "Kontakt", URL = "mailto:belitzki@web.de"}
+      {Name = "📧 belitzki@web.de"},
+      {Name = "📱 0157 39334823 (Krätze)"}
   ]
 [params]
-  description = "Indiepunkpoprockgedöhns"
+  description = "Indiepunkpoprockgedöns"

@@ -1,4 +1,4 @@
-baseURL = "http://belitzki.band/press"
+baseURL = "http://paulklemm.com/belitzki-presskit"
 languageCode = "en-us"
 title = "belitzki. Press Kit"
 publishDir = "docs"

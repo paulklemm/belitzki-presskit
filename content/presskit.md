@@ -35,13 +35,13 @@ Also, bis bald?
 
 ### Anstehende Konzerte
 
-- 11.10.2019 Leverkusen, KAW, Herbstzeit
-- 12.10.2019 Köln, Heumarkt, Klimafest
 - 25.10.2019 Köln, AZ, 1-2-3: Enteignungsfeierei. Alles für alle Soli Party
 - 12.11.2019 Maastricht, Mandril Culture and Political Centre
 
 ### Vergangene Konzerte
 
+- 11.10.2019 Leverkusen, KAW, Herbstzeit
+- 12.10.2019 Köln, Heumarkt, Klimafest
 - 21.09.2019 Köln, Allerweltshaus, Fest ohne Grenzen
 - 13.09.2019 Magdeburg, Kunstfest der Moderne
 - 31.08.2019 Stadt Blankenberg, Schlaraffentag

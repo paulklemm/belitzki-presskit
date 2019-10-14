@@ -4,7 +4,7 @@ date: 2019-10-04T21:55:05+02:00
 draft: false
 ---
 
-{{< figure src="/belitzki-landing_small.jpg" link="/belitzki-landing.jpg" caption="Credit: Justus Rödel">}}
+{{< figure src="/belitzki-presskit/belitzki-landing_small.jpg" link="/belitzki-presskit/belitzki-landing.jpg" caption="Credit: Justus Rödel">}}
 
 ## Album
 

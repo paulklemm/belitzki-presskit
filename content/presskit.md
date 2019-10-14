@@ -4,12 +4,11 @@ date: 2019-10-04T21:55:05+02:00
 draft: true
 ---
 
-TODO: Logo/Bild vor der Wand (Desktop, siehe Desktop)
-Fotocredit
+{{< figure src="/belitzki-landing_small.jpg" link="/belitzki-landing.jpg" caption="Credit: Justus Rödel">}}
 
 ## Album
 
-<iframe style="border: 0; width: 350px; height: 753px;" src="https://bandcamp.com/EmbeddedPlayer/album=1575319358/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://belitzki.bandcamp.com/album/jetzt">Jetzt by belitzki.</a></iframe>
+<iframe style="border: 0; width: 400px; height: 439px;" src="https://bandcamp.com/EmbeddedPlayer/album=1575319358/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="http://belitzki.bandcamp.com/album/jetzt">Jetzt by belitzki.</a></iframe>
 
 ### Reviews
 

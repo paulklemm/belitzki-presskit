@@ -9,7 +9,7 @@ theme = "hyde"
       {Name = "Bandcamp", URL = "https://belitzki.bandcamp.com/"},
       {Name = "Spotify", URL = "https://open.spotify.com/artist/4r0BGqRyBH9BFJHUYHlBFZ?si=z99fXAvaQ_a1VwWD8-YdJw"},
       {Name = "📧 belitzki@web.de"},
-      {Name = "📱 0157 39334823 (Krätze)"}
+      {Name = "📱 0157 39334823 (Krätzi)"}
   ]
 [params]
   description = "Indiepunkpoprockgedöns"

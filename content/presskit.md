@@ -4,7 +4,7 @@ date: 2019-10-04T21:55:05+02:00
 draft: false
 ---
 
-{{< figure src="/belitzki-presskit/belitzki-landing_small.jpg" link="/belitzki-presskit/belitzki-landing.jpg" caption="Credit: Justus Rödel">}}
+{{< figure src="/belitzki-presskit/static/images/belitzki_header_small.jpg" link="/belitzki-presskit/static/images/Logowand_ohne_Grafitti.jpg">}}
 
 ## Album
 
@@ -27,6 +27,14 @@ Mal klappts besser, mal noch besser und mal nicht so richtig, aber immer stehen 
 Und dann wirds geil!
 Also, bis bald?
 
+## Fotos
+
+{{< figure src="/belitzki-presskit/static/images/belitzki.01_credit_justus_roedel_small.jpg" link="/belitzki-presskit/static/images/belitzki.01_credit_justus_roedel.jpg">}}
+{{< figure src="/belitzki-presskit/static/images/belitzki.02_credit_justus_roedel_small.jpg" link="/belitzki-presskit/static/images/belitzki.02_credit_justus_roedel.jpg">}}
+{{< figure src="/belitzki-presskit/static/images/belitzki.03_credit_justus_roedel_small.jpg" link="/belitzki-presskit/static/images/belitzki.03_credit_justus_roedel.jpg">}}
+
+Credit Fotos: Justus Rödel.
+
 ## Video
 
 {{< youtube 5Xdwpp8Hq1Y >}}
@@ -40,8 +48,8 @@ Also, bis bald?
 
 ### Vergangene Konzerte
 
-- 11.10.2019 Leverkusen, KAW, Herbstzeit
 - 12.10.2019 Köln, Heumarkt, Klimafest
+- 11.10.2019 Leverkusen, KAW, Herbstzeit
 - 21.09.2019 Köln, Allerweltshaus, Fest ohne Grenzen
 - 13.09.2019 Magdeburg, Kunstfest der Moderne
 - 31.08.2019 Stadt Blankenberg, Schlaraffentag
@@ -100,6 +108,12 @@ Die neun Songs des Albums „Jetzt“ finden sich irgendwo zwischen Ton Steine S
 *Jetzt*
 
 Für die Veröffentlichung verzichtet die Band bewusst auf ein Label und großen Vertrieb, sondern bietet die CD auf Spendenbasis an. Digital ist das Album seit dem 2.8.2019 auf Bandcamp erhältlich und kann auf den verschiedenen Streamingportalen gehört werden.
+
+## Techrider
+
+{{< figure src="/belitzki-presskit/static/images/techrider_preview.png" link="/belitzki-presskit/static/belitzki._techrider.pdf">}}
+
+(Bild für PDF-Download klicken)
 
 ## Kontakt
 

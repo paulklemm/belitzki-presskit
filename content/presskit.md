@@ -43,11 +43,12 @@ Credit Fotos: Justus Rödel.
 
 ### Anstehende Konzerte
 
-- 25.10.2019 Köln, AZ, 1-2-3: Enteignungsfeierei. Alles für alle Soli Party
 - 12.11.2019 Maastricht, Mandril Culture and Political Centre
 
 ### Vergangene Konzerte
 
+- 25.10.2019 Köln, AZ, 1-2-3: Enteignungsfeierei. Alles für alle Soli Party
+- 24.10.2019 Wuppertal, Mauke
 - 12.10.2019 Köln, Heumarkt, Klimafest
 - 11.10.2019 Leverkusen, KAW, Herbstzeit
 - 21.09.2019 Köln, Allerweltshaus, Fest ohne Grenzen

@@ -43,10 +43,12 @@ Credit Fotos: Justus Rödel.
 
 ### Anstehende Konzerte
 
-- 12.11.2019 Maastricht, Mandril Culture and Political Centre
+- 29.11.2019 Wuppertal, Projekt Bürgerbahnhof (mit Carpet Waves)
+- 14.12.2019 Leipzig, Meuterei (mit Captain Cat)
 
 ### Vergangene Konzerte
 
+- 12.11.2019 Maastricht, Mandril Culture and Political Centre
 - 25.10.2019 Köln, AZ, 1-2-3: Enteignungsfeierei. Alles für alle Soli Party
 - 24.10.2019 Wuppertal, Mauke
 - 12.10.2019 Köln, Heumarkt, Klimafest

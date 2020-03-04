@@ -43,13 +43,18 @@ Credit Fotos: Justus Rödel.
 
 ### Anstehende Konzerte
 
+- 21.03.2020 Solingen, Antirassismus-Tag
 - 03.04.2020 Essen, Fachgeschäft für Stadtwandel (mit [the sound monkeys](https://www.facebook.com/thesoundmonkeys))
 - 04.04.2020 Bonn, Bla (mit [the sound monkeys](https://www.facebook.com/thesoundmonkeys))
 - 05.04.2020 Köln, AZ (mit [the sound monkeys](https://www.facebook.com/thesoundmonkeys))
+- 10.04.2020 Berlin, Fischladen (mit [the sound monkeys](https://www.facebook.com/thesoundmonkeys))
 - 02.05.2020 Ibbenbüren, JKZ Scheune (mit [Maffai](https://maffai.de/))
+- 13.06.2020 Ballenstedt, HocusPocus auf dem Zauberberg
+- 08.08.2020 Essen, Unperfekthaus
 
 ### Vergangene Konzerte
 
+- 28.02.2020 Brüssel, L'Accroche (Soliparty für Zig Zag Kitchen)
 - 14.12.2019 Leipzig, Meuterei (mit Captain Cat)
 - 13.12.2019 Dresden, AZ Conni, Anti-Rep Soliparty
 - 29.11.2019 Wuppertal, Projekt Bürgerbahnhof (mit Carpet Waves)

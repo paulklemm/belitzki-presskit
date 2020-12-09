@@ -48,6 +48,8 @@ Credit Fotos: Justus Rödel.
 
 ### Vergangene Konzerte
 
+- 19.09.2020 Köln, Mehr Freiraum für musikalische und kulturelle Vielfalt in Mülheim - Demo auf der Zehntstraße
+- 01.08.2020 Damstadt, Goldene Krone
 - 05.05.2020 Bonn, Bla ([Stream](https://www.youtube.com/watch?v=InFgwWIBuns&))
 - 28.02.2020 Brüssel, L'Accroche (Soliparty für Zig Zag Kitchen)
 - 14.12.2019 Leipzig, Meuterei (mit Captain Cat)

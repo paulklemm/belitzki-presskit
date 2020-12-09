@@ -41,11 +41,6 @@ Credit Fotos: Justus Rödel.
 
 ## Konzerte
 
-### Anstehende Konzerte
-
-- 01.08.2020 Darmstadt, Goldene Krone
-- 08.08.2020 Essen, Melches Hütte
-
 ### Vergangene Konzerte
 
 - 19.09.2020 Köln, Mehr Freiraum für musikalische und kulturelle Vielfalt in Mülheim - Demo auf der Zehntstraße

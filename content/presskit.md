@@ -19,7 +19,7 @@ draft: false
 
 ## Kurzer Info-Text für Veranstaltungs-Beschreibungen
 
-Nach knapp zwei Jahren Bestehen, Konzerten in AZs und Clubs, auf Solikonzerten und Straßenfesten, nach kleinen Festivals und spontanen Guerilla-Auftritten sind belitzki. vor allem eins- <br />
+Nach knapp drei Jahren Bestehen, Konzerten in AZs und Clubs, auf Solikonzerten und Straßenfesten, nach kleinen Festivals und spontanen Guerilla-Auftritten sind belitzki. vor allem eins- <br />
 Immer noch da. <br />
 Nee im Ernst- <br />
 belitzki. ist unser Versuch, musikalisch irgendwo zwischen Rock, Punk, Indie (?) und Pop (??) unsere Melodien rauszuschicken, mal dreckig, mal sanft und möglichst ehrlich unsere Geschichten zu erzählen und Haltungen zu vertreten.
@@ -41,6 +41,9 @@ Credit Fotos: Justus Rödel.
 
 ## Konzerte
 
+### Anstehende Konzerte
+
+Bald!
 ### Vergangene Konzerte
 
 - 19.09.2020 Köln, Mehr Freiraum für musikalische und kulturelle Vielfalt in Mülheim - Demo auf der Zehntstraße
